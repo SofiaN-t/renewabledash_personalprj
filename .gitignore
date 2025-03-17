@@ -1,0 +1,11 @@
+# Ignore virtual environments
+renewable_dash/
+venv/
+env/
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+*.sqlite3
+.vscode/
